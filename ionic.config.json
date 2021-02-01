@@ -1,0 +1,7 @@
+{
+  "name": "ionic-tabs-repro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
